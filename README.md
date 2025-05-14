@@ -1,3 +1,7 @@
+## UML Class Diagram
+
+![UML Class Diagram](project/umlclass.svg)
+
 A modular, rule-based automation engine inspired by IFTTT — designed using advanced Python OOP concepts including metaclasses, custom triggers, and action pipelines.
 It watches a directory for .csv file creations and deletions, and responds with user-defined actions such as logging or deleting files.
 
