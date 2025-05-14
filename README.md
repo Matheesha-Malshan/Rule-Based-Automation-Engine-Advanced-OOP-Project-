@@ -1,6 +1,6 @@
 ## UML Class Diagram
 
-![UML Class Diagram](project/umlclass.svg)
+<img src="project/umlclass.svg" alt="UML Class Diagram" width="600"/>
 
 
 A modular, rule-based automation engine inspired by IFTTT — designed using advanced Python OOP concepts including metaclasses, custom triggers, and action pipelines.
